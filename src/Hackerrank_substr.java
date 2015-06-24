@@ -1,11 +1,13 @@
+// Here is the link to the question https://www.hackerrank.com/contests/epiccode/challenges/begin-end
+
 package miscellaneous;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 public class Hackerrank_substr 
 {
-
 	public static void substrcount(String input)
 	{
 		// sort the string
@@ -55,5 +57,4 @@ public class Hackerrank_substr
 		String input = s.next();
 		substrcount(input);
 	}
-
 }
